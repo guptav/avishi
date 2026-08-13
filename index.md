@@ -25,8 +25,12 @@ This GitHub Pages Markdown site tracks Avishi's journey from high school onward,
 
 ## Later Scope
 
-- **v1.1:** richer milestone evidence/media links
+- **v1.1:** richer milestone evidence/media links; fill in confirmed course details
 - **v2:** graduate journey expansion (college/career/reflections)
+
+## Four-Year Plan
+
+See `docs/FOUR_YEAR_PLAN.md` for the full academic and extracurricular roadmap across all four years of high school (9th–12th grade), including planned courses, goals, and test prep schedule.
 
 ---
 
@@ -49,14 +53,62 @@ This GitHub Pages Markdown site tracks Avishi's journey from high school onward,
 - **District:** Fremont Union High School District
 - **Focus:** academic growth, balanced extracurricular participation, long-term graduate readiness
 
+## 9th Grade Courses (2026–2027)
+
+| Subject | Course | Status |
+|---|---|---|
+| English | English 1 | in-progress |
+| Math | Algebra 2 / Pre-Calculus | in-progress |
+| Science | Biology | in-progress |
+| Social Studies | World History | in-progress |
+| Physical Education | PE 9 | in-progress |
+| Elective | To be determined | planned |
+
+> Course details will be confirmed and updated after enrollment. See `docs/FOUR_YEAR_PLAN.md` for the full 4-year course plan.
+
 ## Activities
 
-- Club participation (in progress)
+- Club participation (in progress — fall exploration period underway)
 - School/community involvement (in progress)
 
 ## Achievements
 
 - Milestones will be added as they become verified and publish-ready.
+
+---
+
+## Goals Tracker
+
+> Status: `planned` | `in-progress` | `achieved` | `revised`
+
+| Goal | Category | Grade | Target Date | Status |
+|---|---|---|---|---|
+| Build consistent study habits | academics | 9th | 2026-12-31 | in-progress |
+| Explore at least 2 student clubs | activities | 9th | 2026-10-31 | in-progress |
+| Earn a strong GPA in core courses | academics | 9th | 2027-06-30 | in-progress |
+| Identify 1–2 long-term interest areas | personal | 9th | 2027-06-30 | planned |
+| Take first honors or AP course | academics | 10th | 2028-06-30 | planned |
+| Deepen involvement in 1–2 clubs | activities | 10th | 2028-06-30 | planned |
+| Take SAT (first attempt) | academics | 11th | 2029-05-31 | planned |
+| Take a leadership role in a club or team | activities | 11th | 2029-06-30 | planned |
+| Complete college applications | academics | 12th | 2029-12-31 | planned |
+| Graduate with honors / strong GPA | academics | 12th | 2030-06-30 | planned |
+
+For full year-by-year goals breakdown, see `docs/FOUR_YEAR_PLAN.md`.
+
+---
+
+## Test Prep Timeline
+
+| Test | Grade | Target Date | Status |
+|---|---|---|---|
+| PSAT 8/9 | 9th | Fall 2026 | planned |
+| PSAT/NMSQT | 10th | October 2027 | planned |
+| PSAT/NMSQT (qualifying) | 11th | October 2028 | planned |
+| SAT (first attempt) | 11th | Spring 2029 | planned |
+| SAT (retake if needed) | 12th | Fall 2029 | planned |
+| ACT (optional) | 11th–12th | TBD | planned |
+| AP Exams | 11th–12th | May each year | planned |
 
 ---
 
