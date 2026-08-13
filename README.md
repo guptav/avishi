@@ -6,21 +6,21 @@ This repository hosts a lightweight, public-facing **Markdown-first GitHub Pages
 
 ## Quick Start
 
-Open `/home/runner/work/avishi/avishi/index.md` in GitHub (Pages rendering) or as Markdown preview.
+Open `index.md` in GitHub (Pages rendering) or as Markdown preview.
 
 ## Repository Structure
 
-- `/home/runner/work/avishi/avishi/index.md` — main site page and timeline
-- `/home/runner/work/avishi/avishi/docs/GOVERNANCE.md` — edit/publish roles, review flow, privacy boundaries
-- `/home/runner/work/avishi/avishi/docs/MILESTONE_TEMPLATE.md` — structured milestone template
-- `/home/runner/work/avishi/avishi/docs/PUBLISHING_CHECKLIST.md` — publishing quality checklist
-- `/home/runner/work/avishi/avishi/docs/QUALITY_AND_ROADMAP.md` — quality, safety checks, launch roadmap
-- `/home/runner/work/avishi/avishi/docs/REFLECTION_TEMPLATE.md` — journal/reflection entry template
-- `/home/runner/work/avishi/avishi/media/photos/README.md` — v1 photo media guidance
-- `/home/runner/work/avishi/avishi/media/documents/README.md` — v1 document media guidance
+- `index.md` — main site page and timeline
+- `docs/GOVERNANCE.md` — edit/publish roles, review flow, privacy boundaries
+- `docs/MILESTONE_TEMPLATE.md` — structured milestone template
+- `docs/PUBLISHING_CHECKLIST.md` — publishing quality checklist
+- `docs/QUALITY_AND_ROADMAP.md` — quality, safety checks, launch roadmap
+- `docs/REFLECTION_TEMPLATE.md` — journal/reflection entry template
+- `media/photos/README.md` — v1 photo media guidance
+- `media/documents/README.md` — v1 document media guidance
 
 ## Content Updates
 
-1. Add or update milestone rows in `/home/runner/work/avishi/avishi/index.md`.
+1. Add or update milestone rows in `index.md`.
 2. Keep required fields (`id`, `date`, `title`, `category`, `status`, `description`) complete.
 3. Follow editorial and privacy guidance in docs before publishing.

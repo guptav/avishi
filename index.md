@@ -74,7 +74,7 @@ Use this schema for each timeline entry:
 | `tags` | No | Optional short labels |
 | `reflection` | No | Optional short reflection text (journal tone allowed) |
 
-See `/home/runner/work/avishi/avishi/docs/MILESTONE_TEMPLATE.md`.
+See `docs/MILESTONE_TEMPLATE.md`.
 
 ---
 
@@ -98,8 +98,8 @@ See `/home/runner/work/avishi/avishi/docs/MILESTONE_TEMPLATE.md`.
 - **Privacy rule:** redact or omit private details (exact addresses, sensitive IDs, personal contact data)
 
 See:
-- `/home/runner/work/avishi/avishi/docs/GOVERNANCE.md`
-- `/home/runner/work/avishi/avishi/docs/PUBLISHING_CHECKLIST.md`
+- `docs/GOVERNANCE.md`
+- `docs/PUBLISHING_CHECKLIST.md`
 
 ---
 
@@ -110,14 +110,14 @@ See:
 - Content integrity checks: confirm dates/titles/source facts before publish
 - Recovery: rely on git history and periodic tagged snapshots
 
-See `/home/runner/work/avishi/avishi/docs/QUALITY_AND_ROADMAP.md`.
+See `docs/QUALITY_AND_ROADMAP.md`.
 
 ---
 
 ## v1 Media Library
 
-- Photos directory: `/home/runner/work/avishi/avishi/media/photos/README.md`
-- Documents directory: `/home/runner/work/avishi/avishi/media/documents/README.md`
+- Photos directory: `media/photos/README.md`
+- Documents directory: `media/documents/README.md`
 - Naming convention: `YYYY-MM-DD-short-title.ext`
 - Add only approved public-safe files
 
@@ -131,7 +131,7 @@ Reflection entries can be brief and personal while staying respectful and privac
 |---|---|---|---|
 | 2026-08-13 | reflection | first-day | I felt excited and a little nervous, but I’m proud of starting this new chapter at MVHS. |
 
-For additional entries, use `/home/runner/work/avishi/avishi/docs/REFLECTION_TEMPLATE.md`.
+For additional entries, use `docs/REFLECTION_TEMPLATE.md`.
 
 ---
 
