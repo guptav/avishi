@@ -34,12 +34,16 @@
 ### v1 (Current Target)
 
 - Profile + overview
+- 9th grade courses section
+- Goals tracker (all four years)
+- Test prep timeline
 - Initial published milestone
 - Timeline table structure
 - v1 photo/document evidence support
 - Personal reflections/journal entries section
 - References/resources
 - Governance and publishing docs
+- Four-year high school plan (`docs/FOUR_YEAR_PLAN.md`)
 
 ### v1.1
 
