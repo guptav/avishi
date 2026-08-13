@@ -15,3 +15,10 @@ Examples:
 - Only include images that are approved for public display
 - Avoid sensitive or private background information
 - Prefer compressed web-friendly image formats
+
+## Starter Photo Entries
+
+| Date | File | Caption |
+|---|---|---|
+| 2026-08-13 | [2026-08-13-first-day-mvhs.svg](2026-08-13-first-day-mvhs.svg) | First day milestone visual |
+| 2026-09-15 | [2026-09-15-campus-walkthrough.svg](2026-09-15-campus-walkthrough.svg) | Early campus routine milestone |

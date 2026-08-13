@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">First Day at MVHS</title>
+  <desc id="desc">Starter visual for the first day milestone.</desc>
+  <rect width="1200" height="630" fill="#f4f7ff"/>
+  <rect x="80" y="80" width="1040" height="470" rx="24" fill="#dfe8ff" stroke="#7a93d6" stroke-width="4"/>
+  <text x="600" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="56" fill="#1f2f57">First Day at MVHS</text>
+  <text x="600" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#344a84">2026-08-13</text>
+</svg>

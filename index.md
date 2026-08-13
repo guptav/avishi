@@ -36,8 +36,10 @@ This GitHub Pages Markdown site tracks Avishi's journey from high school onward,
 
 | Date | Title | Category | Status | Description | Evidence |
 |---|---|---|---|---|---|
-| 2026-08-13 | First day at Monta Vista High School | academics | published | Beginning of high school journey at MVHS. | [First-day photo placeholder](/media/photos/README.md) |
-| 2026-09-01 | Clubs exploration period | activities | draft | Initial exploration of student clubs and interests. | [Club notes placeholder](/media/documents/README.md) |
+| 2026-08-13 | First day at Monta Vista High School | academics | published | Beginning of high school journey at MVHS. | [First-day photo](media/photos/2026-08-13-first-day-mvhs.svg) |
+| 2026-09-01 | Clubs exploration period | activities | published | Initial exploration of student clubs and interests. | [Club exploration notes](media/documents/2026-09-01-club-exploration-notes.md) |
+| 2026-09-10 | Fall semester goals drafted | academics | published | Set clear academic and activity priorities for the first semester. | [Fall goals document](media/documents/2026-09-10-fall-goals.md) |
+| 2026-09-15 | Campus walkthrough and schedule rhythm | personal | published | Built confidence with classroom transitions and daily planning. | [Campus walkthrough photo](media/photos/2026-09-15-campus-walkthrough.svg) |
 
 ---
 
@@ -130,6 +132,10 @@ Reflection entries can be brief and personal while staying respectful and privac
 | Date | Entry Type | Theme | Reflection |
 |---|---|---|---|
 | 2026-08-13 | reflection | first-day | I felt excited and a little nervous, but I’m proud of starting this new chapter at MVHS. |
+| 2026-09-01 | reflection | activities | Exploring clubs helped me see where I can contribute and where I want to grow. |
+| 2026-09-10 | reflection | goals | Writing my semester goals made everything feel more manageable and focused. |
+| 2026-09-15 | reflection | routines | Once I learned the pace of each class, my confidence improved day by day. |
+| 2026-09-20 | reflection | balance | I’m learning that steady habits matter more than perfect days, and that feels motivating. |
 
 For additional entries, use `docs/REFLECTION_TEMPLATE.md`.
 
