@@ -25,4 +25,11 @@ This site documents Avishi's academic and personal growth — from her first day
 
 ---
 
+## 🔗 References
+
+- [Monta Vista PTSA](https://www.montavistaptsa.org/)
+- [FUHS Foundation](https://fuhsfoundation.org/)
+
+---
+
 © 2026 Avishi Gupta — All rights reserved.
