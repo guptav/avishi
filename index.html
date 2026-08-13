@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Avishi Gupta — High School & Beyond</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f5f7fa;
+      color: #2d2d2d;
+      min-height: 100vh;
+    }
+
+    header {
+      background: linear-gradient(135deg, #1a3c6e 0%, #2e6db4 100%);
+      color: #fff;
+      padding: 3rem 2rem 2.5rem;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 2.6rem;
+      letter-spacing: 0.02em;
+    }
+
+    header p.tagline {
+      margin-top: 0.6rem;
+      font-size: 1.1rem;
+      opacity: 0.85;
+    }
+
+    main {
+      max-width: 860px;
+      margin: 2.5rem auto;
+      padding: 0 1.5rem;
+      display: grid;
+      gap: 1.8rem;
+    }
+
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+      padding: 2rem;
+    }
+
+    .card h2 {
+      font-size: 1.3rem;
+      color: #1a3c6e;
+      margin-bottom: 0.9rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .card h2 .icon { font-size: 1.4rem; }
+
+    .card p, .card li { line-height: 1.7; }
+
+    .card ul { padding-left: 1.2rem; }
+
+    .highlight {
+      display: inline-block;
+      background: #e8f0fb;
+      color: #1a3c6e;
+      border-radius: 6px;
+      padding: 0.15rem 0.55rem;
+      font-weight: 600;
+    }
+
+    .school-link {
+      color: #2e6db4;
+      font-weight: 600;
+      text-decoration: none;
+    }
+    .school-link:hover { text-decoration: underline; }
+
+    .timeline { list-style: none; padding: 0; }
+    .timeline li {
+      position: relative;
+      padding: 0.55rem 0 0.55rem 1.6rem;
+      border-left: 3px solid #2e6db4;
+      margin-left: 0.4rem;
+    }
+    .timeline li::before {
+      content: '';
+      position: absolute;
+      left: -7px;
+      top: 0.95rem;
+      width: 11px;
+      height: 11px;
+      border-radius: 50%;
+      background: #2e6db4;
+    }
+    .timeline li .date {
+      font-size: 0.8rem;
+      color: #666;
+      display: block;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      color: #888;
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Avishi Gupta</h1>
+    <p class="tagline">High School &amp; Graduate Journey</p>
+  </header>
+
+  <main>
+
+    <div class="card">
+      <h2><span class="icon">🏫</span> Current School</h2>
+      <p>
+        Avishi attends
+        <a class="school-link" href="https://mvhs.fuhsd.org/" target="_blank" rel="noopener noreferrer">
+          Monta Vista High School (MVHS)
+        </a>
+        in the Fremont Union High School District.
+      </p>
+      <p style="margin-top:0.8rem;">
+        First day of school: <span class="highlight">August&nbsp;13,&nbsp;2026</span>
+      </p>
+    </div>
+
+    <div class="card">
+      <h2><span class="icon">📖</span> About This Site</h2>
+      <p>
+        This site documents Avishi's academic and personal growth — from her first day at MVHS
+        through high school milestones and, eventually, her graduate journey beyond.
+        Check back as new chapters are added!
+      </p>
+    </div>
+
+    <div class="card">
+      <h2><span class="icon">🗓️</span> Journey Timeline</h2>
+      <ul class="timeline">
+        <li>
+          <span class="date">August 13, 2026</span>
+          First day at Monta Vista High School
+        </li>
+        <li>
+          <span class="date">Coming soon…</span>
+          More milestones to be recorded
+        </li>
+      </ul>
+    </div>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Avishi Gupta &mdash; All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
