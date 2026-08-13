@@ -36,6 +36,7 @@
 - Profile + overview
 - Initial published milestone
 - Timeline table structure
+- v1 photo/document evidence support
 - References/resources
 - Governance and publishing docs
 

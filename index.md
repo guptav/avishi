@@ -20,6 +20,7 @@ This GitHub Pages Markdown site tracks Avishi's journey from high school onward,
 - School, activities, and achievements sections
 - Resources and references
 - Markdown-based workflow for adding milestones
+- v1 media support for approved photos/documents
 
 ## Later Scope
 
@@ -32,10 +33,10 @@ This GitHub Pages Markdown site tracks Avishi's journey from high school onward,
 
 > Status legend: `published`, `draft`, `archived`
 
-| Date | Title | Category | Status | Description |
-|---|---|---|---|---|
-| 2026-08-13 | First day at Monta Vista High School | academics | published | Beginning of high school journey at MVHS. |
-| 2026-09-01 | Clubs exploration period | activities | draft | Initial exploration of student clubs and interests. |
+| Date | Title | Category | Status | Description | Evidence |
+|---|---|---|---|---|---|
+| 2026-08-13 | First day at Monta Vista High School | academics | published | Beginning of high school journey at MVHS. | [First-day photo placeholder](/media/photos/README.md) |
+| 2026-09-01 | Clubs exploration period | activities | draft | Initial exploration of student clubs and interests. | [Club notes placeholder](/media/documents/README.md) |
 
 ---
 
@@ -81,6 +82,7 @@ See `/home/runner/work/avishi/avishi/docs/MILESTONE_TEMPLATE.md`.
 - **Date format:** `YYYY-MM-DD`
 - **Citations:** link primary source when available
 - **Images/media:** use clear names and include context/caption when referenced
+- **Media paths:** keep public files under `/media/photos/` and `/media/documents/`
 - **Privacy:** do not publish sensitive personal details
 
 ---
@@ -106,6 +108,15 @@ See:
 - Recovery: rely on git history and periodic tagged snapshots
 
 See `/home/runner/work/avishi/avishi/docs/QUALITY_AND_ROADMAP.md`.
+
+---
+
+## v1 Media Library
+
+- Photos directory: `/home/runner/work/avishi/avishi/media/photos/README.md`
+- Documents directory: `/home/runner/work/avishi/avishi/media/documents/README.md`
+- Naming convention: `YYYY-MM-DD-short-title.ext`
+- Add only approved public-safe files
 
 ---
 

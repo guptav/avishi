@@ -17,12 +17,19 @@ Use this template when adding a milestone row to `index.md`.
 
 | Field | Description |
 |---|---|
-| `evidence` | Trusted source links or approved media links |
+| `evidence` | Trusted source links or approved media links (photos/documents in `/media/...`) |
 | `tags` | Short labels for grouping/filtering |
 
 ## Markdown Row Example
 
 `| 2026-08-13 | First day at Monta Vista High School | academics | published | Beginning of high school journey at MVHS. |`
+
+## Media (v1 Included)
+
+- **Photos:** store under `/media/photos/`
+- **Documents:** store under `/media/documents/`
+- **File naming:** `YYYY-MM-DD-short-title.ext`
+- **Linking:** reference media paths in the timeline evidence column
 
 ## Content State Definitions
 

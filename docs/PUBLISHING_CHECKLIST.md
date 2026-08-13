@@ -7,6 +7,8 @@ Use this checklist before merging timeline updates.
 - [ ] Status is one of `draft`, `published`, `archived`
 - [ ] Description is factual and concise
 - [ ] Links are valid and point to trusted sources
+- [ ] Photo/document evidence files use approved naming and correct folder placement
+- [ ] Photo/document files are public-safe and do not expose sensitive information
 - [ ] No sensitive personal information is exposed
 - [ ] Grammar and spelling reviewed
 - [ ] Heading/table formatting renders cleanly in GitHub Pages
