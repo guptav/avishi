@@ -19,6 +19,7 @@ Use this template when adding a milestone row to `index.md`.
 |---|---|
 | `evidence` | Trusted source links or approved media links (photos/documents in `/media/...`) |
 | `tags` | Short labels for grouping/filtering |
+| `reflection` | Optional first-person reflection text tied to the milestone |
 
 ## Markdown Row Example
 
@@ -30,6 +31,11 @@ Use this template when adding a milestone row to `index.md`.
 - **Documents:** store under `/media/documents/`
 - **File naming:** `YYYY-MM-DD-short-title.ext`
 - **Linking:** reference media paths in the timeline evidence column
+
+## Reflection Notes
+
+- Reflection text is optional and can be added to milestone notes or the reflections section.
+- Keep reflections constructive, respectful, and privacy-safe.
 
 ## Content State Definitions
 

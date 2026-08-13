@@ -15,6 +15,7 @@ Open `/home/runner/work/avishi/avishi/index.md` in GitHub (Pages rendering) or a
 - `/home/runner/work/avishi/avishi/docs/MILESTONE_TEMPLATE.md` — structured milestone template
 - `/home/runner/work/avishi/avishi/docs/PUBLISHING_CHECKLIST.md` — publishing quality checklist
 - `/home/runner/work/avishi/avishi/docs/QUALITY_AND_ROADMAP.md` — quality, safety checks, launch roadmap
+- `/home/runner/work/avishi/avishi/docs/REFLECTION_TEMPLATE.md` — journal/reflection entry template
 - `/home/runner/work/avishi/avishi/media/photos/README.md` — v1 photo media guidance
 - `/home/runner/work/avishi/avishi/media/documents/README.md` — v1 document media guidance
 

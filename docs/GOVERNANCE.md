@@ -27,3 +27,8 @@ Do **not** publish:
 - private records without explicit approval
 
 When uncertain, prefer omission or redaction.
+
+## Reflection-Specific Guidance
+
+- Reflections may use first-person voice, but should avoid sensitive or identifying private details.
+- If a reflection references another person, avoid sharing their private information without consent.

@@ -31,27 +31,28 @@
 
 ## Launch and Growth Roadmap
 
-## v1 (Current Target)
+### v1 (Current Target)
 
 - Profile + overview
 - Initial published milestone
 - Timeline table structure
 - v1 photo/document evidence support
+- Personal reflections/journal entries section
 - References/resources
 - Governance and publishing docs
 
-## v1.1
+### v1.1
 
 - More high school milestone entries
 - Expanded evidence/media links
 - Improved categorization and navigation sections
 
-## v2
+### v2
 
 - Graduate journey expansion (college/career milestones)
 - Broader reflections and long-term progress themes
 
-## Ongoing Cadence
+### Ongoing Cadence
 
 - Content updates monthly or quarterly
 - Review governance and privacy standards each update cycle

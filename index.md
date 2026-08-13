@@ -21,6 +21,7 @@ This GitHub Pages Markdown site tracks Avishi's journey from high school onward,
 - Resources and references
 - Markdown-based workflow for adding milestones
 - v1 media support for approved photos/documents
+- Personal reflections/journal-style entries
 
 ## Later Scope
 
@@ -71,6 +72,7 @@ Use this schema for each timeline entry:
 | `description` | Yes | One concise factual summary |
 | `evidence` | No | Link(s) to approved documents/media |
 | `tags` | No | Optional short labels |
+| `reflection` | No | Optional short reflection text (journal tone allowed) |
 
 See `/home/runner/work/avishi/avishi/docs/MILESTONE_TEMPLATE.md`.
 
@@ -79,6 +81,7 @@ See `/home/runner/work/avishi/avishi/docs/MILESTONE_TEMPLATE.md`.
 ## Editorial Standards
 
 - **Tone:** factual, positive, respectful, concise
+- **Reflections:** first-person journal voice is allowed when clearly labeled as reflection
 - **Date format:** `YYYY-MM-DD`
 - **Citations:** link primary source when available
 - **Images/media:** use clear names and include context/caption when referenced
@@ -117,6 +120,18 @@ See `/home/runner/work/avishi/avishi/docs/QUALITY_AND_ROADMAP.md`.
 - Documents directory: `/home/runner/work/avishi/avishi/media/documents/README.md`
 - Naming convention: `YYYY-MM-DD-short-title.ext`
 - Add only approved public-safe files
+
+---
+
+## Reflections Journal
+
+Reflection entries can be brief and personal while staying respectful and privacy-safe.
+
+| Date | Entry Type | Theme | Reflection |
+|---|---|---|---|
+| 2026-08-13 | reflection | first-day | I felt excited and a little nervous, but I’m proud of starting this new chapter at MVHS. |
+
+For additional entries, use `/home/runner/work/avishi/avishi/docs/REFLECTION_TEMPLATE.md`.
 
 ---
 
